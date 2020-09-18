@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "email": "gshivam112@gmail.com",
+      "password": "shivam123"
+    }
+  ],
+  "posts": [
+    {
+      "name": "Pizza Hutsds",
+      "email": "pizzahunt@test.com",
+      "rating": "4.5",
+      "address": "Noida",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Burger Kings",
+      "address": "Ghaziabad",
+      "rating": "4.7",
+      "email": "pizzahunt@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Haldirams",
+      "address": "Okahla",
+      "rating": "4.4",
+      "email": "Salted"
+    },
+    {
+      "name": "Star",
+      "email": "Star@gmail.com",
+      "rating": "3.4",
+      "address": "Star@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Testing",
+      "email": "Testing",
+      "rating": "Testing",
+      "address": "Testing",
+      "id": 6
+    }
+  ]
+}
